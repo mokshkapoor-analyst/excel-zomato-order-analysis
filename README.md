@@ -4,6 +4,26 @@ An interactive **Excel Power Pivot dashboard project** analyzing Zomato sales tr
 
 ---
 
+## 📈 Dashboard Preview
+
+### 📸 Dashboard Screenshot
+<img src="Images/zomato.png" alt="Zomato Dashboard Screenshot" width="100%">
+
+### 🎥 Dashboard Walkthrough Video
+
+<img src="Images/Zomato.gif" alt="Zomato Dashboard Walkthrough" width="100%">
+
+### 🧠 Schema
+<img src="Images/Schema.png" alt="Schema" width="100%">
+
+### 📊 Key Findings
+<img src="Images/Zomato_Inferences.png" alt="Zomato Key Findings" width="100%">
+
+### 🔧 Workings
+<img src="Images/workings.jpg" alt="Workings" width="100%">
+
+---
+
 ## 📌 Project Overview
 
 This project focuses on **Zomato Sales & Customer Analytics**, where I built an interactive dashboard to analyze:
@@ -197,27 +217,6 @@ Because of this:
 - Family size 3 and 2 generate highest sales  
   → Create family combo meals for medium-sized families  
 
-
----
-
-## 📈 Dashboard Preview
-
-### 🎥 Dashboard Walkthrough Video
-
-<img src="Images/Zomato.gif" alt="Zomato Dashboard Walkthrough" width="100%">
-
-### 📸 Dashboard Screenshot
-<img src="Images/zomato.png" alt="Zomato Dashboard Screenshot" width="100%">
-
-### 🧠 Schema
-<img src="Images/Schema.png" alt="Schema" width="100%">
-
-### 📊 Key Findings
-<img src="Images/Zomato_Inferences.png" alt="Zomato Key Findings" width="100%">
-
-### 🔧 Workings
-<img src="Images/workings.jpg" alt="Workings" width="100%">
-
 ---
 
 ## 📂 Repository Structure
@@ -236,6 +235,7 @@ zomato-sales-customer-analytics/
 ---
 
 📢 Conclusion
+
 This project demonstrates how Excel dashboards can transform raw food delivery data into meaningful business insights.
 By analyzing order patterns, customer preferences, and delivery performance, we can identify opportunities to improve:
 
@@ -259,6 +259,7 @@ Aspiring Data Analyst
 </p>
 
 📢 You can also check this project on my LinkedIn post: 
+
 <a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_dataanalytics-dataanalysis-excel-activity-7438566531006894080-w_mV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28" target="_blank">
 View Post 🚀
 </a>
